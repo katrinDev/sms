@@ -1,0 +1,8 @@
+﻿  Lab5_s.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\Lab5_s.cpp(159,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\Lab5_s.cpp(253,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\Lab5_s.cpp(262,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\Lab5_s.cpp(271,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\Lab5_s.cpp(280,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab5_s.vcxproj -> D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Debug\Lab5_s.exe

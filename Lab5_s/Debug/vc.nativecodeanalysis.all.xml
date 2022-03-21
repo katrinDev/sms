@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+      <FILENAME>Lab5_s.cpp</FILENAME>
+      <LINE>224</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Использование неинициализированной памяти "r_socket".</DESCRIPTION>
+    <FUNCTION>sms</FUNCTION>
+    <DECORATED>?sms@@YAXPADHI@Z</DECORATED>
+    <FUNCLINE>155</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>157</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>158</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>168</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>170</LINE>
+        <COLUMN>3</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>172</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>172</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>176</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>178</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>179</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>180</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>182</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>184</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>188</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>189</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>81</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>81</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>193</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>195</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>197</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>198</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>200</LINE>
+        <COLUMN>56</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>201</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Инициализация "r_socket" не выполнена</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "i&lt;clients.size()" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>211</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>213</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить эту ветвь (предполагается, что "r_name.size()==0" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>219</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>220</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>222</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>223</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>224</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"r_socket" является входными данными для "send" (объявлено в c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h:2077)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\BSUIR\3 semester\KS\LABS\Lab5_KS\Lab5_s\</FILEPATH>
+        <FILENAME>Lab5_s.cpp</FILENAME>
+        <LINE>224</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"r_socket" используется, но, возможно, не инициализировано</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
